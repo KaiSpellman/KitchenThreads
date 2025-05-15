@@ -1,0 +1,1 @@
+This program simulates a kitchen where the cooks are preparing dishes and the waiters serve the dishes. Each dish has to be cooked before it can be served, requiring synchronization between cook and waiter threads using semaphores.
